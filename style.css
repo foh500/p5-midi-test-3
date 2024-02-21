@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding:}
+canvas {
+  display: block;
+}
+
+.modal-content {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: rgba(255, 255, 255, 0.8);
+  position: fixed;
+  top: 10vh; /* 10% of the viewport height from the top */
+  left: 10vw; /* 10% of the viewport width from the left */
+}
+
+.close {
+  font-size: 28px; /* Increase font size for a larger close symbol */
+  font-weight: bold; /* Makes the close symbol bold */
+  /* ... other styles ... */
+}
